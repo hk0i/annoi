@@ -11,7 +11,7 @@ may be between 3 and 10 rings located on the first tower.
 
 DEPENDENCIES
 =====================================================================
-The following libraries are required to compile Towers of Annoi:
+The following libraries are required to compile Towers that Annoi:
 
 - libsdl
 - libsdl_image
